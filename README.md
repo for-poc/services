@@ -1,6 +1,6 @@
-# Project Title
+# Description
 
-Rudimentary front end (JAX-RS) and backend (JAX-WS) web services.
+Rudimentary backend (JAX-WS) web services.
 
 ## Getting Started
 
